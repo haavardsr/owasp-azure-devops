@@ -2,7 +2,7 @@ parameters:
   - name: targetUrl
     displayName: 'Target Url'
     type: string
-    default: https://www.example.com
+    default: https://localhost:44335/swagger/v1/swagger.json
 
   - name: scanScript
     displayName: 'Scan Type'
